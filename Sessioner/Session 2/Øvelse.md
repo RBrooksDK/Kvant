@@ -4,7 +4,7 @@ Denne opgave handler om Airbnb-opslag i København (til september 2022). Data er
 
 1. Først skal vi fjerne alle overflødige kolonner. Behold venligst følgende 22 kolonner og fjern alle andre. Hæft dig også ved typen og "measure" og sørg for at ændre din egne data så de ligner dette:
 
-   ![data](data.png)
+![data](data.png)
 
 2. Rens data så de ikke længere indeholder manglende værdier, outliers, osv. - du vælger selv om du vil fjerne eller erstatte (eller beholde outliers). Husk dog at argumentere for dit valg.
 
