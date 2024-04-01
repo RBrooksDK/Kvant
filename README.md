@@ -6,7 +6,7 @@ Velkommen til [**Introduktion til kvantitative metode for cand.merc.aud.**](http
 
 | Session             | Emne |
 |-----------------------|-------|
-| 0 | Introduktion     |
+| 0 | [Introduktion](https://github.com/RBrooksDK/Kvant/blob/main/0.%20Introduktion.md)     |
 | 0 | Faglige forudsætninger    |
 | 1 | Indledende analyser    |
 | 2 | Data    |
