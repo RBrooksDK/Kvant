@@ -2,6 +2,19 @@
 
 Velkommen til [**Introduktion til kvantitative metode for cand.merc.aud.**](https://odin.sdu.dk/sitecore/index.php?a=searchfagbesk&bbcourseid=B200049201-1-F24&lang=da)
 
+**Lektionsoversigt** (tryk på en session for at gå til sessionens side):
+
+| Session             | Emne |
+|-----------------------|-------|
+| 0 | Introduktion     |
+| 0 | Faglige forudsætninger    |
+| 1 | Indledende analyser    |
+| 2 | Data    |
+| 3 | Hypotesetest    |
+| 4 | Regressionsanalyse |
+| 5 | Klassifikation |
+| 6 | Klynge- og faktoranalyse |
+
 **Kursusformål:** Multivariat analyse er en teknik til at undersøge sammenhængene mellem flere variable i et givent datasæt. Det er en vigtig metode i mange områder af samfundsvidenskab, herunder psykologi, sociologi og økonomi. Dette kursus vil give deltagerne en grundlæggende forståelse for de mest almindelige teknikker inden for multivariat analyse, såsom regression, faktor-, diskriminant-, og klyngeanalyse. I løbet af kurset vil deltagerne også lære at præsentere og formidle resultaterne af deres analyse i en professionel og anvendelig form samt at udføre multivriat analyse vha. SPSS.
 
 **Underviser:** Richard Brooks (brooks@sam.sdu.dk)
