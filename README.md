@@ -10,7 +10,7 @@ Velkommen til [**Introduktion til kvantitative metode for cand.merc.aud.**](http
 | 0 | [Faglige forudsætninger](https://github.com/RBrooksDK/Kvant/blob/main/Sessioner/0.%20Faglige%20foruds%C3%A6tninger.md)    |
 | 1 | [Indledende analyser](https://github.com/RBrooksDK/Kvant/blob/main/Sessioner/Session%201/1.%20Indledende%20analyser.md)    |
 | 2 | [Data](https://github.com/RBrooksDK/Kvant/blob/main/Sessioner/Session%202/2.%20Data.md)    |
-| 3 | [Hypotesetest](Sessioner/Session%3/3.%Hypotesetests.md)    |
+| 3 | [Hypotesetest](Sessioner/Session%203/3.%20Hypotesetests.md)    |
 | 4 | Regressionsanalyse |
 | 5 | Klassifikation |
 | 6 | Klynge- og faktoranalyse |
