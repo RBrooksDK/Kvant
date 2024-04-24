@@ -12,7 +12,7 @@ Velkommen til [**Introduktion til kvantitative metode for cand.merc.aud.**](http
 | 2 | [Data](https://github.com/RBrooksDK/Kvant/blob/main/Sessioner/Session%202/2.%20Data.md)    |
 | 3 | [Hypotesetest](Sessioner/Session%203/3.%20Hypotesetests.md)    |
 | 4 | [Regressionsanalyse](Sessioner/Session%204/4.%20Regressionsanalyse.md) |
-| 5 | Klassifikation |
+| 5 | [Klassifikation](Sessioner/Session%205/5.%20Klassifikation.md) |
 | 6 | Klynge- og faktoranalyse |
 
 **Kursusformål:** Multivariat analyse er en teknik til at undersøge sammenhængene mellem flere variable i et givent datasæt. Det er en vigtig metode i mange områder af samfundsvidenskab, herunder psykologi, sociologi og økonomi. Dette kursus vil give deltagerne en grundlæggende forståelse for de mest almindelige teknikker inden for multivariat analyse, såsom regression, faktor-, diskriminant-, og klyngeanalyse. I løbet af kurset vil deltagerne også lære at præsentere og formidle resultaterne af deres analyse i en professionel og anvendelig form samt at udføre multivriat analyse vha. SPSS.
