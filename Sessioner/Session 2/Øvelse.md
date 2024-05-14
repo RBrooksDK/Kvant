@@ -26,3 +26,5 @@ Denne opgave handler om Airbnb-opslag i København (til september 2022). Data er
 9. Opret endnu en ny kolonne, hvor prisen nu kun deles i to dele: "dyre" boliger defineret ved alle boliger med en pris højere end median-prisen, og "billige" boliger defineret ved alle boliger med en pris lig med eller under median-prisen. Du kan kode de billige boliger "0" og de dyre "1". Alle listings bør nu have en klassifikation på enten dyre boliger (1) eller billige boliger (0).
 
 10. Lav en beskrivende analyse af de to klasser af listings (de dyre og de billige). Brug **Descriptive Statistics** platformen. Inkluder oplysninger om værelsestype i analysen. Konkludér på analysen.
+
+[Løsning](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/Eh5SoAe_CwpFmZ333CDLRAgBnsSyzkrIPXNHzJa9vZCwBg?e=5femQ6)
