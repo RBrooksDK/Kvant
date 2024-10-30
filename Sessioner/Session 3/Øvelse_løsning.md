@@ -1,0 +1,2 @@
+# Øvelse: Hypotesetests - løsning
+
